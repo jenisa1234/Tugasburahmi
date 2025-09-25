@@ -1,0 +1,10 @@
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\bin\Debug\AppCalculator2jeje.exe.config
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\bin\Debug\AppCalculator2jeje.exe
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\bin\Debug\AppCalculator2jeje.pdb
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.csproj.AssemblyReference.cache
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.Form1.resources
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.Properties.Resources.resources
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.csproj.GenerateResource.cache
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.csproj.CoreCompileInputs.cache
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.exe
+C:\Users\smkne\source\repos\AppCalculator2jeje\AppCalculator2jeje\obj\Debug\AppCalculator2jeje.pdb
